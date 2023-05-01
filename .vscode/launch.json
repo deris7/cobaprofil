@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index3.html",
+            "file": "d:\\all\\UMPAR\\Tugas_PemrogramanWeb\\220280100-Deris Pakiding-Tugas 5\\index3.html"
+        }
+    ]
+}
